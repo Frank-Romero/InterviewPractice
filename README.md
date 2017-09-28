@@ -1,8 +1,8 @@
 # InterviewPractice
 Full Stack Nanodegree
 
-Practice interview questions in order to get a feel for the process and what is expected.
-Show my skills and enthusiasm, and how I specifically am interested in the company's mission.
+Employers use interviews to judge your readiness and fit for the job, which includes hearing about your skills and interest in the role.
+The interview is not a test or exam, but a conversation between you and the employer.
 
 
 Question 1
